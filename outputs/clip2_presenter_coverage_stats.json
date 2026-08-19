@@ -1,0 +1,12 @@
+{
+  "clip": "clip2_presenter",
+  "grid_size": 10,
+  "cells_visited": 2,
+  "total_cells": 100,
+  "grid_occupancy_pct": 2.0,
+  "total_distance_px": 970.42,
+  "avg_speed_px_per_frame": 23.11,
+  "num_centroid_samples": 43,
+  "frame_width": 3840,
+  "frame_height": 2160
+}

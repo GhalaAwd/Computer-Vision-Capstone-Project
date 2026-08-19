@@ -1,0 +1,12 @@
+{
+  "clip": "clip3_presenter",
+  "grid_size": 10,
+  "cells_visited": 6,
+  "total_cells": 100,
+  "grid_occupancy_pct": 6.0,
+  "total_distance_px": 6287.44,
+  "avg_speed_px_per_frame": 63.51,
+  "num_centroid_samples": 100,
+  "frame_width": 3840,
+  "frame_height": 2160
+}
