@@ -224,3 +224,4 @@ data/*
 !data/README.md
 outputs/*
 !outputs/.gitkeep
+!outputs/mentorvision_report.html
